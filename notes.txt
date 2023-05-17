@@ -1,0 +1,31 @@
+EDA - exploratory data analysis
+
+what is eda - it is also reffered as exploratory data analysis and it is used by the data scientist to analyse and investigate 
+the data sets and summerize their main characterstics often employing data visualization.
+it helps determine how best to manupulate data sources to get the answer you need
+
+why eda is imortant to data science - the main purpose is before making any assumptions we need eda.
+ it helps us to identify the errors as well as better way to understand the relations among the data
+
+eda tools - python, R
+
+4 kinds of eda :
+1. univariate non graphical
+2.univariate graphical
+3.multivariate non graphical
+4.multivariate graphical
+
+eda building:
+1.problem definition
+2. hypothesis generation (what is nul hypothesis and alternate hypothesis)
+3. data collections
+4.data exploration
+5.pre processing and cleaning the data:
+ a.handling missing values
+ b.handling outlayers
+ c.handing skewness
+ d.handling categorical data
+  1.scalling
+   a.one hot model
+   b.standard scalar
+ e. feature engineering
